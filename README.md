@@ -41,5 +41,5 @@ I used kmk with circuit python as firmare,and make code for the left part which 
 I made the BOM  and needed materials ,in egypt then convert its price to USD dollar.
 <img width="712" height="459" alt="Screenshot 2026-06-20 125541" src="https://github.com/user-attachments/assets/e3eccf82-57f2-432f-9001-60b2ca9d9d27" />
 ## Zine 
-<img width="1080" height="1350" alt="Zine" src="https://github.com/user-attachments/assets/d4510e86-2481-4d26-bb39-e12793462559" />
+<img width="1080" height="1350" alt="Zine" src="https://github.com/user-attachments/assets/645d8232-9b81-42d6-8926-97ac65ccb0f6" />
 
